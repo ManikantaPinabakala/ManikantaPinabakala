@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManikantaPinabakala
 - 👀 I’m interested in Python, JavaScript, NodeJS, ReactJS, AI, ML, Data Science, Fullstack development
 - 🌱 I’m currently a CSE-AI student at Parul University.
-- 💞️ I’m looking to collaborate on AI and ML projects.
+- 🤝 I’m looking to collaborate on AI/ML, NodeJS, and ReactJS projects.
 - 📫 How to reach me: manikantapinabakala@gmail.com / www.linkedin.com/in/manikantapinabakala
 
 <!---
